@@ -18,3 +18,7 @@
 + **개발한 화면**
   
   <img src="https://github.com/youarebin/npc_bear_game/assets/111740077/53dc0e2e-e19b-49ee-b654-1672b234141c" width="80%" height="80%"/>
+
++ **구글 플레이 스토어 출시**
+
+https://play.google.com/store/apps/details?id=ddwu.npc.woong&hl=ko
